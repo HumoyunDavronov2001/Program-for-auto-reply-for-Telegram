@@ -4,11 +4,11 @@ from tkinter import filedialog
 from tkinter import messagebox
 
 # Bot tokenini BotFather orqali olganingizdan so'ng pastdagi joyga joylashtiring
-BOT_TOKEN = '7506906334:AAFoFbZxf8qfKiUD2m8NFvWQPpZICHSNQNM'
+BOT_TOKEN = '****************************************'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Aniq foydalanuvchi ID'si
-TARGET_USER_ID = 2033619874  # Maqsadli foydalanuvchi ID'si
+TARGET_USER_ID = **************************  # Maqsadli foydalanuvchi ID'si
 
 # Tkinter oynasini yaratish
 window = tk.Tk()
