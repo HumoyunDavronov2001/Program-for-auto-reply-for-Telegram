@@ -6,8 +6,8 @@ import time
 import tempfile
 
 # Telegram bot API va VirusTotal API kalitlari
-TELEGRAM_BOT_TOKEN = '6850624896:AAEfUDuFrpjSr4unuomhSOFKzcY7DHGRwfA'
-VIRUSTOTAL_API_KEY = 'fb7f565dc4034118a1be97878e2066292e6e54fa865f35f039b26dd0e0057230'
+TELEGRAM_BOT_TOKEN = '****************************************'
+VIRUSTOTAL_API_KEY = '**************************************************'
 
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
 
